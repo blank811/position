@@ -1,0 +1,16 @@
+{
+  "name": "position",
+  "version": "0.0.1",
+  "description": "Find a country by latitude and longitude",
+  "main": "src/codegrid.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blank811/position.git"
+  },
+  "license": "WTFPL",
+  "dependencies":{
+  },
+  "devDependencies": {
+  },
+  "engine": "node >= 0.6.0"
+}
